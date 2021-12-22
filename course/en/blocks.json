@@ -3905,82 +3905,11 @@
     }
   },
   {
-    "title": "Designing a DQAP",
-    "displayTitle": "Designing a DQAP",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 56,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9962a",
-    "_parentId": "6135ec04680ed409e2f995f2",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
     "title": "Using DQAP - Thresholds",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 57,
+    "_trackingId": 56,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4051,7 +3980,7 @@
     "displayTitle": "Steps to finding the root cause",
     "body": "",
     "_classes": "",
-    "_trackingId": 58,
+    "_trackingId": 57,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4122,7 +4051,7 @@
     "displayTitle": "Using DQAP -  More on actions",
     "body": "<p>Some actions might be easy and quick. Some might be very expensive and time consuming.</p>",
     "_classes": "",
-    "_trackingId": 59,
+    "_trackingId": 58,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4193,7 +4122,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "cBlock-02",
-    "_trackingId": 60,
+    "_trackingId": 59,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4264,7 +4193,7 @@
     "displayTitle": "Measurements",
     "body": "<p>Now that you have decided what is a priority, you need to consider what this means for your data set. Earlier, we saw that there were many fields in this data set. Having identified which parts of your data need to be right for your purpose,&nbsp;you identify that the following related fields in the data set:</p><ul><li>Dates of RTCs</li><li>Times of RTCs</li><li>Locations of RTCs</li><li>Severity of any injuries sustained</li><li>Response time of emergency services</li></ul><p>You now need to decide which dimensions are most important for these fields in order to protect your outcomes.</p>",
     "_classes": "",
-    "_trackingId": 61,
+    "_trackingId": 60,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4274,6 +4203,77 @@
     "_ariaLevel": 0,
     "_id": "616ebc81680ed409e2f99b3b",
     "_parentId": "616e8a09680ed409e2f99b34",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Ways of measuring data quality",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 61,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "61c07413680ed409e2f99d7c",
+    "_parentId": "6135ec04680ed409e2f995f2",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -4473,11 +4473,82 @@
     }
   },
   {
+    "title": "Designing a DQAP",
+    "displayTitle": "Designing a DQAP",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 64,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6135ec04680ed409e2f9962a",
+    "_parentId": "6135ec04680ed409e2f995f2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Using DQAP - Results",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 64,
+    "_trackingId": 65,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4548,7 +4619,7 @@
     "displayTitle": "Root Cause Analysis - the Five Whys",
     "body": "<p>There are different approaches to root cause analysis. One helpful technique&nbsp;is called the five whys.​</p>",
     "_classes": "",
-    "_trackingId": 65,
+    "_trackingId": 66,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4619,7 +4690,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "cBlock-01",
-    "_trackingId": 66,
+    "_trackingId": 67,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4690,7 +4761,7 @@
     "displayTitle": "Using DQAP - recording actions",
     "body": "",
     "_classes": "",
-    "_trackingId": 67,
+    "_trackingId": 68,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4761,7 +4832,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 68,
+    "_trackingId": 69,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4832,7 +4903,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 69,
+    "_trackingId": 70,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4903,7 +4974,7 @@
     "displayTitle": "Final reflections",
     "body": "",
     "_classes": "",
-    "_trackingId": 70,
+    "_trackingId": 71,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4974,7 +5045,7 @@
     "displayTitle": "Using DQAP - Repeating measurement",
     "body": "<p>We learned in the first module that quality assessments need to be&nbsp;proactive. That means we need to measure data quality regularly and&nbsp;record the results.&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 71,
+    "_trackingId": 72,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5045,7 +5116,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "cBlock-02",
-    "_trackingId": 72,
+    "_trackingId": 73,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5116,7 +5187,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 73,
+    "_trackingId": 74,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5187,7 +5258,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 74,
+    "_trackingId": 75,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5258,7 +5329,7 @@
     "displayTitle": "A completed data quality action plan",
     "body": "",
     "_classes": "",
-    "_trackingId": 75,
+    "_trackingId": 76,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5329,7 +5400,7 @@
     "displayTitle": "Investigating data quality problems",
     "body": "<p>Having decided on some metrics for this field, you&nbsp;run appropriate queries on your database and find that, for a number of records, the 'Time of RTC' is less than 5 minutes earlier than the 'Time emergency services attended'.</p>",
     "_classes": "",
-    "_trackingId": 76,
+    "_trackingId": 77,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5400,7 +5471,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 77,
+    "_trackingId": 78,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5471,7 +5542,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 78,
+    "_trackingId": 79,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5542,7 +5613,7 @@
     "displayTitle": "Root cause analysis",
     "body": "<p>You investigate how widespread the problem of invalid data in the 'Time of RTC' field is. You find that this occurs with data collected and entered in some regions of the country, but not in others.</p><p>You ask one of the analysts in your organisation about your findings. The analyst tells you,&nbsp;\"the problem is that the people collecting the data do not always record the time, so the data entry people just guess\". This seems to be a common opinion among your analysts, but the data collection&nbsp;and data entry happens&nbsp;outside of your organisation, so your staff do not work&nbsp;directly with the people who collect and enter the data.</p><p>You want to be sure about this, so you contact some of the teams who enter the data and use the five whys.</p>",
     "_classes": "",
-    "_trackingId": 79,
+    "_trackingId": 80,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5613,7 +5684,7 @@
     "displayTitle": "Continuing the five whys",
     "body": "<p>You asked, \"Why is the Time of RTC data invalid for some regions?\"</p><p>The answer is: Because the data entered in the 'Time of RTC' field is sometimes the time the incident was reported or attended, instead of the time that the incident occurred.</p><p>Now that you have started with the first why, the rest fall&nbsp;into place.</p>",
     "_classes": "",
-    "_trackingId": 80,
+    "_trackingId": 81,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5684,7 +5755,7 @@
     "displayTitle": "Deciding on actions",
     "body": "<p>You followed the five whys and found the root cause of this data quality problem. Now you need to decide on actions to solve the problem.</p>",
     "_classes": "",
-    "_trackingId": 81,
+    "_trackingId": 82,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5755,7 +5826,7 @@
     "displayTitle": "A good data quality assessment",
     "body": "<p>You found out that the root cause of a data quality problem occurs early in the data lifecycle. Your data set is collated from multiple different teams entering data in different places. The lack of an agreed and communicated standard has allowed a data quality problem to occur. This impacts your analyses and is a risk to your outcomes.</p>",
     "_classes": "",
-    "_trackingId": 82,
+    "_trackingId": 83,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5826,7 +5897,7 @@
     "displayTitle": "Bringing the plan together",
     "body": "<p>Because of the approach you followed to solving this first problem, you are easily able to demonstrate to your senior leaders that the quality of your data has real impact on the organisation's outcomes. You can show that the actions you decided on are cost effective and will improve the quality of the work that your organisation does.</p><p>Now that you have a good plan to measure and solve one data quality problem, you want to create a full data quality action plan to manage the quality of your whole data set.&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 83,
+    "_trackingId": 84,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5897,7 +5968,7 @@
     "displayTitle": "Summary",
     "body": "<p>&lt;Nice summary text goes here&gt;</p>",
     "_classes": "",
-    "_trackingId": 84,
+    "_trackingId": 85,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,

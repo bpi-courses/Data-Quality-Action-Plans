@@ -7124,5 +7124,33 @@
         "tooltip": "Close window"
       }
     }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Ways of measuring data quality",
+    "displayTitle": "Ways of measuring data quality",
+    "body": "<p>You’ve identified the data quality dimensions that are appropriate to your data set and its purpose. You’ve decided on the metrics to use. So, how can you quantify them?</p><p>Types of data and approaches used to measure data quality will differ from organisation to organisation. Here are some routes that can help you to analyse the quality of your data.</p><ul><li>Basic spreadsheet functions such as ‘IF’ statements to define more complex rules that&nbsp;can&nbsp; identify duplicates or invalid values. Pivot tables can be used to check for consistency in your data set.</li><li>Database and spatial queries to understand the nature of your data.</li><li>R and Python scripts to check the quality of your data and generate results of your chosen metrics.</li><li>ETL (Extract, Transform and Load) process&nbsp;can include a validation step.</li><li>Business Intelligence platforms can produce insightful reports and dashboards on data quality metrics.</li></ul><p>Explore the option that will work for your organisation as it will depend on the complexity of your data set. For example, you would not spend a lot of time designing an elaborate process when your data set is of low risk. &nbsp;Remember that whichever approach you choose, it must be proportionate, maintainable, and usable.</p>",
+    "_id": "61c07478680ed409e2f99d7d",
+    "_parentId": "61c07413680ed409e2f99d7c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
   }
 ]
