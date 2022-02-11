@@ -2628,9 +2628,9 @@
   },
   {
     "title": "The Government Data Quality Hub",
-    "displayTitle": "",
+    "displayTitle": "The Government Data Quality Hub",
     "body": "",
-    "_classes": "cBlock-01",
+    "_classes": "cBlock-05",
     "_trackingId": 38,
     "instruction": "",
     "_isOptional": false,
@@ -4473,8 +4473,8 @@
     }
   },
   {
-    "title": "Designing a DQAP",
-    "displayTitle": "Designing a DQAP",
+    "title": "Summary",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "_trackingId": 64,
@@ -4689,7 +4689,7 @@
     "title": "Bespoke Support",
     "displayTitle": "",
     "body": "",
-    "_classes": "cBlock-01",
+    "_classes": "cBlock-05",
     "_trackingId": 67,
     "instruction": "",
     "_isOptional": false,
@@ -5966,7 +5966,7 @@
   {
     "title": "Summary",
     "displayTitle": "Summary",
-    "body": "<p>&lt;Nice summary text goes here&gt;</p>",
+    "body": "<p>We have seen how to assess the quality of data&nbsp;through a hypothetical example. The techniques you have learned will help you to create your own data quality action plan. You can now take action to improve data quality management.</p>",
     "_classes": "",
     "_trackingId": 85,
     "instruction": "",

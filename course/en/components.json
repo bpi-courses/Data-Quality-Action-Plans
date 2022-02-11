@@ -1212,7 +1212,7 @@
     "_disableAccessibilityState": false,
     "title": "Designing a DQAP",
     "displayTitle": "Designing a DQAP",
-    "body": "<p>In this module, we will go through the steps for designing a data quality action plan. Remember that it should be evidence based, linked to purpose, proactive and easily communicated​.</p><p>​If you manage a data set,&nbsp;think about the steps you would apply to that data.​</p><p>If you do not currently manage a data set, think about some data that you are familiar with. It could be something simple like flexi time recording, or a complex data set related to your organisation’s work.&nbsp;​</p><p>Hold on to your example as we will use it later on.</p>",
+    "body": "<p>In this module, we will go through the steps for designing a data quality action plan. Remember that it should be evidence based, linked to purpose, proactive and easily communicated​.</p><p>​If you manage a data set,&nbsp;think about the steps you would apply to that data.​</p><p>If you do not currently manage a data set, think about some data that you are familiar with. It could be something simple like flexi-time recording, or a complex data set related to your organisation’s work.&nbsp;​</p><p>Hold on to your example as we will use it later on.</p>",
     "_id": "6135ec04680ed409e2f99661",
     "_parentId": "6135ec04680ed409e2f99617",
     "_type": "component",
@@ -1982,7 +1982,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "",
+    "instruction": "Click the arrow on the right hand side of the image to see more.",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
     "_setCompletionOn": "allItems",
@@ -2473,7 +2473,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "",
+    "instruction": "Click the  arrow on the right hand side of the image to see more.",
     "mobileInstruction": "",
     "_hasNavigationInTextArea": false,
     "_setCompletionOn": "allItems",
@@ -3646,9 +3646,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "The Government Data Quaity Hub",
+    "title": "The Government Data Quality Hub",
     "displayTitle": "",
-    "body": "<p>This course has been created by the Government Data Quality Hub, or&nbsp;DQHub. The team is based in the Office for National Statistics.​</p><p>The&nbsp;DQHub&nbsp;is working to improve the quality and management of&nbsp;data and analysis across government.​</p><p>For more information and guidance on data quality in government,&nbsp;<a href=\"https://www.gov.uk/government/organisations/government-data-quality-hub\" target=\"_blank\"><span style=\"color:#FFFFFF\">see the&nbsp;</span></a><u><a href=\"https://www.gov.uk/government/organisations/government-data-quality-hub\" target=\"_blank\"><span style=\"color:#FFFFFF\">DQHub&nbsp;website</span></a></u><span style=\"color:#FFFFFF\">.</span></p>",
+    "body": "<p>This course has been created by the Government Data Quality Hub, or&nbsp;DQHub. The team is based in the Office for National Statistics.​</p><p>The&nbsp;DQHub&nbsp;is working to improve the quality and management of&nbsp;data and analysis across government.​</p><p>For more information about us, <a href=\"https://www.gov.uk/government/organisations/government-data-quality-hub/about\">see the DQHub webpage</a>.</p>",
     "_id": "6135ec05680ed409e2f9968b",
     "_parentId": "6135ec04680ed409e2f9963d",
     "_type": "component",
@@ -3676,7 +3676,7 @@
     "_disableAccessibilityState": false,
     "title": "Other guidance",
     "displayTitle": "Other guidance",
-    "body": "<p>As a reminder, if you want to check back on what the elements of&nbsp; a DQAP are, this <a href=\"https://github.com/best-practice-and-impact/dqhub-resources/raw/main/TrainingResource_Hypothetical_DQAP_Design.pptx\">hypothetical example</a> will help you. For a template including metrics, results and quality improvements, <a href=\"https://github.com/best-practice-and-impact/dqhub-resources/raw/main/TrainingResource_Hypothetical_DQAP_Results.xlsx\">this spreadsheet</a> is a good start.&nbsp;</p><p>If you are interested in the quality of data and the quality of statistics, we have the following courses:</p><ul><li>Introduction to Data Quality</li><li>Communicating Quality, Uncertainty and Change</li></ul><p>We are preparing other material that can support you in improving the quality of data and analysis.</p><p>You might also consider:</p><ul><li>Guidance for assessing quality as a data user - coming soon!</li></ul>",
+    "body": "<p>As a reminder, if you want to check back on what the elements of&nbsp; a DQAP are, this <a href=\"https://github.com/best-practice-and-impact/dqhub-resources/raw/main/TrainingResource_Hypothetical_DQAP_Design.pptx\">hypothetical example</a> will help you. For a template including metrics, results and quality improvements, <a href=\"https://github.com/best-practice-and-impact/dqhub-resources/raw/main/TrainingResource_Hypothetical_DQAP_Results.xlsx\">this spreadsheet</a> is a good start.&nbsp;</p><p>If you are interested in the quality of data and the quality of statistics, we have the following courses:</p><ul><li>Introduction to Data Quality</li><li>Communicating Quality, Uncertainty and Change</li></ul><p>We are preparing other material that can support you in improving the quality of data and analysis. You&nbsp;can subscribe on our <a href=\"https://www.gov.uk/email-signup?link=/government/organisations/government-data-quality-hub\">webpage</a> and you will receive alerts of the latest additions to our page&nbsp;like the&nbsp;forthcoming guidance on assessing data quality as an analyst.</p>",
     "_id": "6135ec05680ed409e2f9968c",
     "_parentId": "6135ec04680ed409e2f9963e",
     "_type": "component",
@@ -3704,7 +3704,7 @@
     "_disableAccessibilityState": false,
     "title": "Bespoke Support",
     "displayTitle": "Bespoke Support",
-    "body": "<ul><li>The&nbsp;DQHub&nbsp;offers bespoke support across government to improve their&nbsp;management of data quality.</li><li>There are resources on the&nbsp;<u><a href=\"https://www.gov.uk/government/organisations/government-data-quality-hub\" target=\"_blank\"><span style=\"color:#FFFFFF\">DQHub&nbsp;website</span></a></u>&nbsp;but the team can also deliver training or support you with specific issues&nbsp;you’d like to tackle.&nbsp;​</li><li>For more information email us&nbsp;at&nbsp;<a href=\"mailto:dqhub@ons.gov.uk\"><span style=\"color:#FFFFFF\">DQHub@ons.gov.uk</span></a>.</li></ul>",
+    "body": "<ul><li>The&nbsp;DQHub&nbsp;offers bespoke support across government to improve their&nbsp;management of data quality.</li><li>There are resources on the<a href=\"https://www.gov.uk/government/organisations/government-data-quality-hub\"> DQHub webpage</a>&nbsp;but the team can also deliver training or support you with specific issues&nbsp;you’d like to tackle.&nbsp;​</li><li>For more information email us&nbsp;at&nbsp;<a href=\"mailto:dqhub@ons.gov.uk\">DQHub@ons.gov.uk</a>.</li></ul>",
     "_id": "6135ec05680ed409e2f9968d",
     "_parentId": "6135ec04680ed409e2f9963f",
     "_type": "component",
@@ -3732,7 +3732,7 @@
     "_disableAccessibilityState": false,
     "title": "End of course",
     "displayTitle": "",
-    "body": "<p>You have now completed this course.</p><p>Please fill in our <a href=\"https://www.smartsurvey.co.uk/s/0K44Z6/\">feedback form</a>&nbsp;so that we can identify areas for improvement and gauge other topics of interest for developing future courses.&nbsp;</p>",
+    "body": "<p>You have now completed this course. Congratulations!</p><p>Please fill in our <a href=\"https://www.smartsurvey.co.uk/s/0K44Z6/\">feedback form</a>&nbsp;so that we can identify areas for improvement and gauge other topics of interest for developing future courses.&nbsp;</p><p>Thank you.</p>",
     "_id": "6135ec05680ed409e2f9968e",
     "_parentId": "6135ec04680ed409e2f99640",
     "_type": "component",
@@ -4126,7 +4126,7 @@
     "_items": [
       {
         "title": "Complete",
-        "body": "<p>All records and all critical values in those records are present.</p>",
+        "body": "<p>All records and all critical values in the records are present.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -4553,7 +4553,7 @@
     "_disableAccessibilityState": false,
     "title": "DQAP benefits",
     "displayTitle": "",
-    "body": "<p>A data quality action plan will you manage the quality of you data in many ways.</p>",
+    "body": "<p>A data quality action plan will help you manage the quality of you data in many ways.</p>",
     "_id": "614339a0680ed409e2f99a57",
     "_parentId": "61433104680ed409e2f99a2e",
     "_type": "component",
@@ -4709,7 +4709,7 @@
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": false,
-    "_shouldResetAllAnswers": true,
+    "_shouldResetAllAnswers": false,
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_questionWeight": 1,
@@ -4977,8 +4977,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Designing a DQAP",
-    "displayTitle": "",
+    "title": "Summary",
+    "displayTitle": "Summary",
     "body": "<p>In this module we have picked the most important items at each stage. When you create a Data Quality Action Plan, you will repeat this for each priority part of the dataset and each purpose, building out a complete picture of the quality of the data.</p>",
     "_id": "6159b852680ed409e2f99a77",
     "_parentId": "6135ec04680ed409e2f9962a",
@@ -5034,7 +5034,7 @@
         "body": "<p>Always remember:​</p><ul><li>your plans should be proportionate, low risk data needs fewer checks&nbsp;than high risk data​</li><li>focus on the data that has the most impact on our work&nbsp;​</li><li>perfect data is not possible, concentrate on achieving data that is&nbsp;good enough​</li></ul>",
         "strapline": "Points to remember",
         "_graphic": {
-          "src": "course/assets/49736a5e53df7ced8c27632a41858f00a707862d.png",
+          "src": "course/en/assets/49736a5e53df7ced8c27632a41858f00a707862d.png",
           "alt": "",
           "attribution": "",
           "_classes": ""
@@ -5660,7 +5660,7 @@
     "_disableAccessibilityState": false,
     "title": "Your data",
     "displayTitle": "Your data",
-    "body": "<p>The data set you use contains a lot of information about road traffic collisions. The fields in the data set are listed below. Each of the&nbsp;data fields has differing levels of data quality. There are different issues present in each of them.</p><p>The data set is used for multiple purposes. One of these is to support decisions about what type of road safety measures to introduce and where. Which of the fields are important to this purpose?</p>",
+    "body": "<p>The data set you use contains a lot of information about road traffic collisions. The fields in the data set are listed below. Each of the&nbsp;data fields has differing levels of data quality. There are different issues present in each of them.</p><p>The data set is used for multiple purposes. One of these is to support decisions about what type of road safety measures to introduce and where in order to save lives. Which of the fields are important to this purpose?</p>",
     "_id": "616e8655680ed409e2f99b33",
     "_parentId": "616e8655680ed409e2f99b32",
     "_type": "component",
@@ -5736,7 +5736,7 @@
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
+    "_shouldDisplayAttempts": true,
     "_isRandom": true,
     "_recordInteraction": true,
     "_questionWeight": 1,
@@ -5976,14 +5976,14 @@
     "_selectable": 10,
     "_feedback": {
       "title": "What needs to be right?",
-      "correct": "<p>Correct! Making sure that these things parts of the data set are right will help the ambulance service to plan how many staff they need, in what places, and at what times.</p>",
+      "correct": "<p>Correct! Making sure that these things parts of the data set are right will help the police and ambulance services to plan how many staff they need, in what places, and at what times.</p><p>Click continue to see more.</p>",
       "_incorrect": {
-        "final": "<p>Not quite. In order to plan their staffing requirements to deal with road traffic collisions, the ambulance service need to know where and when RTCs occur, how severe they are, and how quickly they currently respond to incidents.</p><p>Click continue to see more.</p>",
-        "notFinal": "<p>Not quite. The ambulance services need information to plan where staff need to be available, what times they need to be available, and how many need to be available to respond to road traffic collisions.</p>"
+        "final": "<p>Not quite. In order to plan their staffing requirements to deal with road traffic collisions, the police and ambulance&nbsp;services need to know where and when RTCs occur, how severe they are, and how quickly they currently respond to incidents.</p><p>Click continue to see more.</p>",
+        "notFinal": "<p>Not quite. The police and ambulance services need information to plan where staff need to be available, what times they need to be available, and how many need to be available to respond to road traffic collisions.</p>"
       },
       "_partlyCorrect": {
-        "final": "<p>Almost! The ambulance service need to know where and when RTCs occur, how severe they are, and how quickly they currently respond to incidents to plan their staffing requirements to deal with road traffic collisions.</p><p>Click continue to see more.</p>",
-        "notFinal": "<p>Nearly there! The ambulance services need information to plan where staff need to be available, what times they need to be available, and how many need to be available to respond to road traffic collisions.</p>"
+        "final": "<p>Almost! The police and ambulance service need to know where and when RTCs occur, how severe they are, and how quickly they currently respond to incidents to plan their staffing requirements to deal with road traffic collisions.</p><p>Click continue to see more.</p>",
+        "notFinal": "<p>Nearly there! The police and ambulance services need information to plan where staff need to be available, what times they need to be available, and how many need to be available to respond to road traffic collisions.</p>"
       }
     },
     "_buttons": {
@@ -7017,7 +7017,7 @@
     "_disableAccessibilityState": false,
     "title": "Navigation",
     "displayTitle": "",
-    "body": "<p>This course has been provided by the Government Data Quality Hub (DQHub). We provide information, resources, and support across government to help you manage your data and statistical quality.</p><p>For more, visit <a href=\"https://www.gov.uk/government/organisations/government-data-quality-hub\">our website</a>&nbsp;or contact us at <a href=\"mailto:dqhub@ons.gov.uk\">DQHub@ons.gov.uk</a>.</p>",
+    "body": "",
     "_id": "617a513f680ed409e2f99b75",
     "_parentId": "61711bb0680ed409e2f99b5b",
     "_type": "component",
