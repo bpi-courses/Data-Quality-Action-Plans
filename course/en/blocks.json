@@ -12,505 +12,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f995fe",
-    "_parentId": "6135ec04680ed409e2f995e4",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "What's changed?",
-    "displayTitle": "What's changed?",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 2,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99606",
-    "_parentId": "6135ec04680ed409e2f995e9",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Why do we assess quality?",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 3,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99607",
-    "_parentId": "6135ec04680ed409e2f995e7",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Test your knowledge",
-    "displayTitle": "Test your knowledge",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 4,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9960b",
-    "_parentId": "6135ec04680ed409e2f995e8",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "The benefits of data quality action plans",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 5,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99614",
-    "_parentId": "6135ec04680ed409e2f995eb",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "How is it different?",
-    "displayTitle": "How is it different?",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 6,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9961a",
-    "_parentId": "6135ec04680ed409e2f995ea",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Why use data quality action plans?",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 7,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9961d",
-    "_parentId": "6135ec04680ed409e2f995ec",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Data quality action plans",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 8,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99620",
-    "_parentId": "6135ec04680ed409e2f995ed",
+    "_id": "6215001d5c080d0a15af0ae2",
+    "_parentId": "6215001d5c080d0a15af0ac9",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -572,7 +75,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 9,
+    "_trackingId": 2,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -580,8 +83,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99621",
-    "_parentId": "6135ec04680ed409e2f995ef",
+    "_id": "6215001d5c080d0a15af0afb",
+    "_parentId": "6215001d5c080d0a15af0ad2",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -643,7 +146,7 @@
     "displayTitle": "Step two - Priority data",
     "body": "<p>Now that we have defined the purpose of the data, we will&nbsp;look at the priority parts of the data.&nbsp;​</p><p>​Do not worry about data at the level of fields at this stage. Think of thematic parts of the data that will be made up of many data items.&nbsp;&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 10,
+    "_trackingId": 3,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -651,8 +154,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99623",
-    "_parentId": "6135ec04680ed409e2f995f0",
+    "_id": "6215001d5c080d0a15af0afd",
+    "_parentId": "6215001d5c080d0a15af0ad3",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -712,9 +215,9 @@
   {
     "title": "DQAP - Measurements",
     "displayTitle": "",
-    "body": "<p>Choosing the right dimensions for your purpose helps to ensure you’re measuring what’s relevant. These steps make the link between the purpose and your data.</p><p>Resist the temptation to measure all the dimensions. They won’t all be needed for every purpose.</p><p>For example, for some purposes, it might be important that data is consistent with another system because it is being combined with a different set of data. For another purpose the data might be useful so long as the values are complete.</p><p>Always think about the purpose at the heart of your plan. Think about whether the data would be unfit for purpose if that data didn’t meet our expectations</p><p><strong>Good quality data is:</strong></p><p>&nbsp;</p>",
+    "body": "<p>Choosing the right dimensions for your purpose helps to ensure you’re measuring what is relevant. These steps make the link between the purpose and your data.</p><p>Resist the temptation to measure all the dimensions. They will not all be needed for every purpose.</p><p>For example, for some purposes, it might be important that data is consistent with another system because it is being combined with a different set of data. For another purpose it might be important that the values for priority data are complete.</p><p>Always think about the purpose at the heart of your plan. Think about whether the data would be unfit for purpose if that data didn’t meet our expectations</p><p><strong>Good quality data is:</strong></p><p>&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 11,
+    "_trackingId": 4,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -722,8 +225,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99626",
-    "_parentId": "6135ec04680ed409e2f995f1",
+    "_id": "6215001e5c080d0a15af0aff",
+    "_parentId": "6215001d5c080d0a15af0ad4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -785,7 +288,7 @@
     "displayTitle": "",
     "body": "<p>We have&nbsp;identified the purpose of the data, the parts of the data that&nbsp;most need to be correct, and which dimensions describe correct for this&nbsp;purpose. Now we can consider the actual data items and how we will&nbsp;measure them.</p><p>We will define measurements we can make to check whether the data meets&nbsp;our expectations. These checks do not have to be right all the time; they&nbsp;describe what good, typical data looks like.&nbsp;​</p><p>For example, we might have customers with French postcodes. That does not&nbsp;mean the whole data set is wrong if 1% of the postcodes are not in the UK.&nbsp;But it does define our expectations for the data set.&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 12,
+    "_trackingId": 5,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -793,8 +296,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99628",
-    "_parentId": "6135ec04680ed409e2f995f2",
+    "_id": "6215001e5c080d0a15af0b01",
+    "_parentId": "6215001d5c080d0a15af0ad5",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -852,11 +355,11 @@
     }
   },
   {
-    "title": "Using DQAP - Root Cause",
-    "displayTitle": "Using DQAP - Root Cause",
+    "title": "Using DQAPs - Root Cause",
+    "displayTitle": "Using DQAPs - Root Cause",
     "body": "<p>We have seen how to assess the quality of our data and obtain a set of results.&nbsp;​</p><p>Now we can look at the data that does not&nbsp;meet our expectations and&nbsp;find actions that tackle those problems.&nbsp;Focus first on data that is&nbsp;failing multiple checks or failing checks by a lot.​</p>",
     "_classes": "",
-    "_trackingId": 13,
+    "_trackingId": 6,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -864,8 +367,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9962e",
-    "_parentId": "6135ec04680ed409e2f995f4",
+    "_id": "6215001e5c080d0a15af0b06",
+    "_parentId": "6215001d5c080d0a15af0ad7",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -923,11 +426,11 @@
     }
   },
   {
-    "title": "Using DQAP - Actions",
-    "displayTitle": "Using DQAP - Actions",
+    "title": "Using DQAPs - Actions",
+    "displayTitle": "Using DQAPs - Actions",
     "body": "<p>Now that we have looked at how to identify root causes, we can decide on the right actions to take.&nbsp;</p><p>Start by tackling the problem with the biggest impact. You may be able to&nbsp;tackle a number of problems with the same action.​</p>",
     "_classes": "",
-    "_trackingId": 14,
+    "_trackingId": 7,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -935,8 +438,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99634",
-    "_parentId": "6135ec04680ed409e2f995f5",
+    "_id": "6215001e5c080d0a15af0b0c",
+    "_parentId": "6215001d5c080d0a15af0ad8",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -998,7 +501,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "cBlock-01",
-    "_trackingId": 15,
+    "_trackingId": 8,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1006,8 +509,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99638",
-    "_parentId": "6135ec04680ed409e2f995f6",
+    "_id": "6215001e5c080d0a15af0b10",
+    "_parentId": "6215001d5c080d0a15af0ad9",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1069,7 +572,7 @@
     "displayTitle": "Test your knowledge",
     "body": "",
     "_classes": "",
-    "_trackingId": 16,
+    "_trackingId": 9,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1077,8 +580,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99639",
-    "_parentId": "6135ec04680ed409e2f995f7",
+    "_id": "6215001e5c080d0a15af0b11",
+    "_parentId": "6215001d5c080d0a15af0ada",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1140,7 +643,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 17,
+    "_trackingId": 10,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1148,8 +651,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9963a",
-    "_parentId": "6135ec04680ed409e2f995f8",
+    "_id": "6215001e5c080d0a15af0b12",
+    "_parentId": "6215001d5c080d0a15af0adb",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1211,7 +714,7 @@
     "displayTitle": "Now check if you are using the elements of your data quality action plan effectively.",
     "body": "",
     "_classes": "",
-    "_trackingId": 18,
+    "_trackingId": 11,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1219,8 +722,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9963b",
-    "_parentId": "6135ec04680ed409e2f995f9",
+    "_id": "6215001e5c080d0a15af0b13",
+    "_parentId": "6215001d5c080d0a15af0adc",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1282,7 +785,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 19,
+    "_trackingId": 12,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1290,8 +793,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9963c",
-    "_parentId": "6135ec04680ed409e2f995fa",
+    "_id": "6215001e5c080d0a15af0b14",
+    "_parentId": "6215001d5c080d0a15af0add",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1353,7 +856,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 20,
+    "_trackingId": 13,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1361,8 +864,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99641",
-    "_parentId": "6135ec04680ed409e2f995fb",
+    "_id": "6215001e5c080d0a15af0b19",
+    "_parentId": "6215001d5c080d0a15af0ade",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1424,16 +927,16 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 21,
+    "_trackingId": 14,
     "instruction": "",
-    "_isOptional": true,
+    "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_requireCompletionOf": 0,
+    "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6140948b680ed409e2f99a22",
-    "_parentId": "6135ec04680ed409e2f995e2",
+    "_id": "6215001e5c080d0a15af0b25",
+    "_parentId": "6215001d5c080d0a15af0ad1",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1495,7 +998,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 22,
+    "_trackingId": 15,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1503,8 +1006,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6144674d680ed409e2f99a61",
-    "_parentId": "6135ec04680ed409e2f995e3",
+    "_id": "6215001e5c080d0a15af0b26",
+    "_parentId": "6215001d5c080d0a15af0ad6",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1566,7 +1069,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 23,
+    "_trackingId": 16,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1574,150 +1077,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61642b8a680ed409e2f99ab6",
-    "_parentId": "6135ec04680ed409e2f995ee",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Navigation",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 24,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "61642d18680ed409e2f99ab8",
-    "_parentId": "6135ec04680ed409e2f995f3",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Navigation",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 25,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "616e7417680ed409e2f99b2e",
-    "_parentId": "616e7416680ed409e2f99b2d",
+    "_id": "6215001e5c080d0a15af0b27",
+    "_parentId": "6215001d5c080d0a15af0adf",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1779,7 +1140,7 @@
     "displayTitle": "Getting started",
     "body": "<p>Although you have not received complaints from your stakeholders, you&nbsp;want to know more about the quality of your data. You decide to create an assessment that can be repeated regularly and will give you a picture of data quality in your data set and how this relates to your business outcomes. You also decide to ensure that reports on the quality of the data are published alongside the data set.</p>",
     "_classes": "",
-    "_trackingId": 26,
+    "_trackingId": 17,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1787,8 +1148,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "616e8a09680ed409e2f99b35",
-    "_parentId": "616e8a09680ed409e2f99b34",
+    "_id": "6215001e5c080d0a15af0b29",
+    "_parentId": "6215001d5c080d0a15af0ae0",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1848,9 +1209,9 @@
   {
     "title": "Course content",
     "displayTitle": "Course content",
-    "body": "<p>The first two modules will be useful to anyone interested in assessing data quality. The second two modules focus on how you create a data quality action plan and they may be easier to follow if you currently manage data. If you do not, you can think of a data set you are familiar with.</p>",
+    "body": "<p>This course contains two modules and includes a data scenario to consolidate the learning acquired throughout the course.</p>",
     "_classes": "",
-    "_trackingId": 27,
+    "_trackingId": 18,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1858,8 +1219,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "617a4111680ed409e2f99b70",
-    "_parentId": "617a4111680ed409e2f99b6f",
+    "_id": "6215001e5c080d0a15af0b34",
+    "_parentId": "6215001d5c080d0a15af0ae1",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1917,11 +1278,11 @@
     }
   },
   {
-    "title": "What is data quality?",
-    "displayTitle": "",
-    "body": "",
+    "title": "What is  a data quality action plan?",
+    "displayTitle": "What is  a data quality action plan?",
+    "body": "<p>A data quality action plan (DQAP) is a method to manage data quality assessments. It helps you to measure what matters, guides you how to measure quality and review the results. It also allows you to make efficient and impactful improvements to address quality problems. Let us see how we can design a data quality action plan.</p><p>&nbsp;</p><p>&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 28,
+    "_trackingId": 19,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1929,363 +1290,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f995ff",
-    "_parentId": "6135ec04680ed409e2f995e2",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "What does good assessment look like?",
-    "displayTitle": "What does good assessment look like?",
-    "body": "<p>Any assessment of quality is better than none. But assessing the right things in the right ways will make your assessments more effective.</p>",
-    "_classes": "",
-    "_trackingId": 29,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99608",
-    "_parentId": "6135ec04680ed409e2f995e7",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "scroll",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": true,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Why do we assess data quality?",
-    "displayTitle": "Why do we assess data quality?",
-    "body": "<p>Conducting data quality assessments can seem daunting or time consuming, but they can provide great benefits in the long term.</p>",
-    "_classes": "",
-    "_trackingId": 30,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9960d",
-    "_parentId": "6135ec04680ed409e2f995e8",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Why data quality action plans?",
-    "displayTitle": "Why data quality action plans?",
-    "body": "<p>A data quality action plan&nbsp;(DQAP)&nbsp;is one way to manage data quality assessments. As we explored in the previous module, however you choose to assess data quality, you must ensure that your approach is:</p><ul><li>Evidence based</li><li>Linked to purpose</li><li>Proactive</li><li>Communicated</li></ul>",
-    "_classes": "",
-    "_trackingId": 31,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99613",
-    "_parentId": "6135ec04680ed409e2f995e3",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Recap",
-    "displayTitle": "Recap",
-    "body": "<p>In the previous modules, we highlighted the importance of assessments and described what good assessments look like. We mentioned data quality action plans as a method of assessment and presented their benefits.</p><p>Now let us see how we can design a data quality action plan.</p><p>&nbsp;</p><p>&nbsp;</p>",
-    "_classes": "",
-    "_trackingId": 32,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99617",
-    "_parentId": "6135ec04680ed409e2f995ee",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "What are data quality action plans?",
-    "displayTitle": "What are data quality action plans?",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 33,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9961e",
-    "_parentId": "6135ec04680ed409e2f995ec",
+    "_id": "6215001d5c080d0a15af0af2",
+    "_parentId": "6215001d5c080d0a15af0ad1",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -2347,7 +1353,7 @@
     "displayTitle": "Reflecting on your purpose(s)",
     "body": "",
     "_classes": "",
-    "_trackingId": 34,
+    "_trackingId": 20,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2355,8 +1361,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99622",
-    "_parentId": "6135ec04680ed409e2f995ef",
+    "_id": "6215001d5c080d0a15af0afc",
+    "_parentId": "6215001d5c080d0a15af0ad2",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -2416,9 +1422,9 @@
   {
     "title": "DQAP - Measurements",
     "displayTitle": "",
-    "body": "<p>This is the first part of your plan that will be dealing with data fields rather than parts of the data. Keep focusing on the fields that matter most and resist the temptation to measure everything.</p><p>For example, if you’ve identified that address needs to be correct, and that the address should be complete, valid and consistent, think carefully about which part of the address really matters to you.</p><ul><li>If your purpose relates to mapping occurrences of something, having a postcode complete and matching a national postcode list would be important.</li><li>If your purpose relates to getting staff out to visit a site, it may be just as important to have a house number. If staff are sent out from a county hub, it may be vital that the postcode should match a county field.</li></ul><p>If you don’t know the data fields in detail, now is the time to involve a technical expert who is familiar with the data set.</p><p>There are no right or wrong answers. Keep your purpose in mind and focus on the data that matters most</p>",
+    "body": "<p>This is the first part of your plan that will be dealing with data fields rather than parts of the data. Keep focusing on the fields that matter most and resist the temptation to measure everything.</p><p>For example, if you have identified that address needs to be correct, and that the address should be complete, valid and consistent, think carefully about which part of the address really matters to you.</p><ul><li>If your purpose relates to mapping occurrences of something, having a postcode complete and matching a national postcode list would be important.</li><li>If your purpose relates to getting staff out to visit a site, it may be just as important to have a house number. If staff are sent out from a county hub, it may be vital that the postcode should match a county field.</li></ul><p>If you don’t know the data fields in detail, now is the time to involve a technical expert who is familiar with the data set.</p><p>There are no right or wrong answers. Keep your purpose in mind and focus on the data that matters most</p>",
     "_classes": "",
-    "_trackingId": 35,
+    "_trackingId": 21,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2426,8 +1432,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99627",
-    "_parentId": "6135ec04680ed409e2f995f1",
+    "_id": "6215001e5c080d0a15af0b00",
+    "_parentId": "6215001d5c080d0a15af0ad4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -2489,7 +1495,7 @@
     "displayTitle": "",
     "body": "<p>Look at the purpose you have&nbsp;identified, the parts of the data set that needs to be correct and the dimensions&nbsp;that describe what correct looks like.&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 36,
+    "_trackingId": 22,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2497,8 +1503,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99629",
-    "_parentId": "6135ec04680ed409e2f995f2",
+    "_id": "6215001e5c080d0a15af0b02",
+    "_parentId": "6215001d5c080d0a15af0ad5",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -2558,9 +1564,9 @@
   {
     "title": "Why and where data quality issues arise",
     "displayTitle": "Why and where data quality issues arise",
-    "body": "<p>Bad quality data happens for a lot of different reasons. Any time the data is moved or changed, the quality might change.​ This can&nbsp;happen&nbsp;anywhere in the data lifecycle.</p><p>You can remind yourself of the&nbsp;importance of the data lifecycle in the Introduction to Data Quality&nbsp;course.​</p><p>&nbsp;</p>",
+    "body": "<p>Bad quality data happens for a lot of different reasons. Any time the data is moved or changed, the quality might change.​ This can&nbsp;happen&nbsp;anywhere in the data lifecycle.</p><p>You can remind yourself of the&nbsp;importance of the data lifecycle in the<a href=\"https://bpi-courses.github.io/Introduction_to_Data_Quality/\" target=\"_blank\"> Introduction to Data Quality&nbsp;course (opens in new tab)</a>.​</p><p>&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 37,
+    "_trackingId": 23,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2568,8 +1574,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9962f",
-    "_parentId": "6135ec04680ed409e2f995f4",
+    "_id": "6215001e5c080d0a15af0b07",
+    "_parentId": "6215001d5c080d0a15af0ad7",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -2630,8 +1636,8 @@
     "title": "The Government Data Quality Hub",
     "displayTitle": "The Government Data Quality Hub",
     "body": "",
-    "_classes": "cBlock-05",
-    "_trackingId": 38,
+    "_classes": "cBlock-07",
+    "_trackingId": 24,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2639,8 +1645,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9963d",
-    "_parentId": "6135ec04680ed409e2f995e4",
+    "_id": "6215001e5c080d0a15af0b15",
+    "_parentId": "6215001d5c080d0a15af0ac9",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -2700,9 +1706,9 @@
   {
     "title": "Reflecting on how much you have learnt about data quality action plan on this course",
     "displayTitle": "Reflecting on how much you have learnt about data quality action plan on this course",
-    "body": "<p>Now that you have been through all the modules, how confident are you about designing and using&nbsp;a data quality action plan?</p>",
+    "body": "<p>Now that you have been through both&nbsp;modules, how confident or not confident are you about designing and using&nbsp;a data quality action plan?</p>",
     "_classes": "",
-    "_trackingId": 39,
+    "_trackingId": 25,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2710,8 +1716,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99643",
-    "_parentId": "6135ec04680ed409e2f995f9",
+    "_id": "6215001e5c080d0a15af0b1a",
+    "_parentId": "6215001d5c080d0a15af0adc",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -2769,153 +1775,11 @@
     }
   },
   {
-    "title": "What are the benefits?",
-    "displayTitle": "What are the benefits?",
-    "body": "<p>There are many benefits to data quality action plans that are not always part of traditional data quality assessments.</p>",
-    "_classes": "",
-    "_trackingId": 40,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "61433104680ed409e2f99a2e",
-    "_parentId": "6135ec04680ed409e2f995eb",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "What is a data quality action plan?",
-    "displayTitle": "What is a data quality action plan?",
+    "title": "Using DQAPs - Defining fit for purpose",
+    "displayTitle": "Using DQAPs - Defining fit for purpose",
     "body": "",
     "_classes": "",
-    "_trackingId": 41,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "614331f0680ed409e2f99a38",
-    "_parentId": "6135ec04680ed409e2f995ea",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Using DQAP - Defining fit for purpose",
-    "displayTitle": "Using DQAP - Defining fit for purpose",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 42,
+    "_trackingId": 26,
     "instruction": "About thresholds",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2923,8 +1787,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6159dafa680ed409e2f99a86",
-    "_parentId": "6135ec04680ed409e2f995f3",
+    "_id": "6215001e5c080d0a15af0b22",
+    "_parentId": "6215001d5c080d0a15af0ad6",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -2986,7 +1850,7 @@
     "displayTitle": "Addressing root causes",
     "body": "",
     "_classes": "",
-    "_trackingId": 43,
+    "_trackingId": 27,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2994,8 +1858,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "616040cf680ed409e2f99aac",
-    "_parentId": "6135ec04680ed409e2f995f5",
+    "_id": "6215001e5c080d0a15af0b23",
+    "_parentId": "6215001d5c080d0a15af0ad8",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -3057,7 +1921,7 @@
     "displayTitle": "Scenario: Road safety",
     "body": "<p>Your organisation uses a data set to analyse road traffic collisions (RTCs). The data is collected in investigations of RTCs, but your team also uses it for wider planning and analysis.&nbsp;This data is very important for making decisions about road safety measures, and your analyses also support the emergency services when making decisions about allocating their resources.&nbsp;The quality of the data in this data set has implications for decisions that can have a&nbsp;substantial impact&nbsp;on people's lives.</p><p>You are aware that the data in this data set will never be&nbsp;perfect, but you are not sure whether it is truly fit for purpose. You are also concerned that nobody seems completely sure which parts of the data set have&nbsp;good and poor quality data, or what is actually causing poor quality data to find its way into your data set.</p><p>The impacts of data quality on these important decisions are unknown.&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 44,
+    "_trackingId": 28,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3065,8 +1929,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "616e8655680ed409e2f99b32",
-    "_parentId": "616e7416680ed409e2f99b2d",
+    "_id": "6215001e5c080d0a15af0b28",
+    "_parentId": "6215001d5c080d0a15af0adf",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -3128,7 +1992,7 @@
     "displayTitle": "Starting with a purpose",
     "body": "<p>The two primary purposes for your data set are:</p><ul><li>Implement effective&nbsp;road safety measures&nbsp;</li><li>Allocate resources for the emergency services' response to road traffic collisions</li></ul><p>For the purposes of this scenario, we are going to focus first on improving the quality of the data that supports the emergency services' resource planning. You think about what parts of your data need to be right in order to achieve this purpose.</p>",
     "_classes": "",
-    "_trackingId": 45,
+    "_trackingId": 29,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3136,8 +2000,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "616eaabf680ed409e2f99b39",
-    "_parentId": "616e8a09680ed409e2f99b34",
+    "_id": "6215001e5c080d0a15af0b2a",
+    "_parentId": "6215001d5c080d0a15af0ae0",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -3199,7 +2063,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 46,
+    "_trackingId": 30,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3207,434 +2071,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "617a41fe680ed409e2f99b72",
-    "_parentId": "617a4111680ed409e2f99b6f",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "What is data quality?",
-    "displayTitle": "What is data quality?",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 47,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99604",
-    "_parentId": "6135ec04680ed409e2f995e2",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Good data quality assessments are:",
-    "displayTitle": "Good data quality assessments are:",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 48,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99609",
-    "_parentId": "6135ec04680ed409e2f995e7",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Coming up next",
-    "displayTitle": "Coming up next",
-    "body": "<p>This module has looked at what data quality means, why it needs to be assessed, and what makes a good data quality assessment. This has included suggesting data quality action plans as an assessment method.</p><p>In the next module, we will explore what data quality action plans are, and why they can be a good way to improve data quality in your organisation.&nbsp;&nbsp;</p>",
-    "_classes": "",
-    "_trackingId": 49,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9960c",
-    "_parentId": "6135ec04680ed409e2f995e8",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Reflecting on data quality action plans",
-    "displayTitle": "Reflecting on data quality action plans",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 50,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99615",
-    "_parentId": "6135ec04680ed409e2f995eb",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Why use data quality action plans?",
-    "displayTitle": "Why use data quality action plans?",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 51,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99616",
-    "_parentId": "6135ec04680ed409e2f995e3",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Why are data quality actions plans effective?",
-    "displayTitle": "Why are data quality actions plans effective?",
-    "body": "<p>Traditional data quality assessments are comprehensive, but data quality actions plans can be much more effective.</p>",
-    "_classes": "",
-    "_trackingId": 52,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99618",
-    "_parentId": "6135ec04680ed409e2f995ea",
+    "_id": "6215001e5c080d0a15af0b35",
+    "_parentId": "6215001d5c080d0a15af0ae1",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -3696,7 +2134,7 @@
     "displayTitle": "Starting with Purpose",
     "body": "<p>The most important part of a Data Quality Action Plan is the purpose your data is used for. This sits at the heart of the plan.</p>",
     "_classes": "",
-    "_trackingId": 53,
+    "_trackingId": 31,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3704,79 +2142,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9961b",
-    "_parentId": "6135ec04680ed409e2f995ee",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "The benefits of data quality action plans",
-    "displayTitle": "The benefits of data quality action plans",
-    "body": "<p>Data quality action plans do have some things in common with traditional assessments, as well as some differences. There are many potential benefits to using data quality action plans over traditional data quality assessments.</p>",
-    "_classes": "",
-    "_trackingId": 54,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9961f",
-    "_parentId": "6135ec04680ed409e2f995ec",
+    "_id": "6215001d5c080d0a15af0af5",
+    "_parentId": "6215001d5c080d0a15af0ad1",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -3838,7 +2205,7 @@
     "displayTitle": "",
     "body": "<p>This is the step that will start to set out how quality varies between different purposes.&nbsp;Different purposes will rely on different parts of the&nbsp;data, or&nbsp;may have different expectations for those parts of the data, which we will look at next.&nbsp;</p><p>Remember to focus on the areas that are most critical to meeting your purpose, not everything you collect as part of carrying out that purpose.</p>",
     "_classes": "",
-    "_trackingId": 55,
+    "_trackingId": 32,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3846,8 +2213,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99625",
-    "_parentId": "6135ec04680ed409e2f995f0",
+    "_id": "6215001e5c080d0a15af0afe",
+    "_parentId": "6215001d5c080d0a15af0ad3",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -3905,11 +2272,11 @@
     }
   },
   {
-    "title": "Using DQAP - Thresholds",
+    "title": "Using DQAPs - Thresholds",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 56,
+    "_trackingId": 33,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3917,8 +2284,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9962c",
-    "_parentId": "6135ec04680ed409e2f995f3",
+    "_id": "6215001e5c080d0a15af0b04",
+    "_parentId": "6215001d5c080d0a15af0ad6",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -3980,7 +2347,7 @@
     "displayTitle": "Steps to finding the root cause",
     "body": "",
     "_classes": "",
-    "_trackingId": 57,
+    "_trackingId": 34,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3988,8 +2355,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99630",
-    "_parentId": "6135ec04680ed409e2f995f4",
+    "_id": "6215001e5c080d0a15af0b08",
+    "_parentId": "6215001d5c080d0a15af0ad7",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -4047,11 +2414,11 @@
     }
   },
   {
-    "title": "Using DQAP -  More on actions",
-    "displayTitle": "Using DQAP -  More on actions",
+    "title": "Using DQAPs -  More on actions",
+    "displayTitle": "Using DQAPs -  More on actions",
     "body": "<p>Some actions might be easy and quick. Some might be very expensive and time consuming.</p>",
     "_classes": "",
-    "_trackingId": 58,
+    "_trackingId": 35,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4059,8 +2426,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99635",
-    "_parentId": "6135ec04680ed409e2f995f5",
+    "_id": "6215001e5c080d0a15af0b0d",
+    "_parentId": "6215001d5c080d0a15af0ad8",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -4121,8 +2488,8 @@
     "title": "Other guidance",
     "displayTitle": "",
     "body": "",
-    "_classes": "cBlock-02",
-    "_trackingId": 59,
+    "_classes": "cBlock-06",
+    "_trackingId": 36,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4130,8 +2497,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9963e",
-    "_parentId": "6135ec04680ed409e2f995e4",
+    "_id": "6215001e5c080d0a15af0b16",
+    "_parentId": "6215001d5c080d0a15af0ac9",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -4193,7 +2560,7 @@
     "displayTitle": "Measurements",
     "body": "<p>Now that you have decided what is a priority, you need to consider what this means for your data set. Earlier, we saw that there were many fields in this data set. Having identified which parts of your data need to be right for your purpose,&nbsp;you identify that the following related fields in the data set:</p><ul><li>Dates of RTCs</li><li>Times of RTCs</li><li>Locations of RTCs</li><li>Severity of any injuries sustained</li><li>Response time of emergency services</li></ul><p>You now need to decide which dimensions are most important for these fields in order to protect your outcomes.</p>",
     "_classes": "",
-    "_trackingId": 60,
+    "_trackingId": 37,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4201,8 +2568,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "616ebc81680ed409e2f99b3b",
-    "_parentId": "616e8a09680ed409e2f99b34",
+    "_id": "6215001e5c080d0a15af0b2b",
+    "_parentId": "6215001d5c080d0a15af0ae0",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -4264,7 +2631,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 61,
+    "_trackingId": 38,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4272,8 +2639,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61c07413680ed409e2f99d7c",
-    "_parentId": "6135ec04680ed409e2f995f2",
+    "_id": "6215001e5c080d0a15af0b36",
+    "_parentId": "6215001d5c080d0a15af0ad5",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -4331,82 +2698,11 @@
     }
   },
   {
-    "title": "How do you feel about data quality?",
-    "displayTitle": "How do you feel about data quality?",
-    "body": "<p>This module looks at how to conduct good data quality assessments. Before we learn more, let's reflect on how confident you already are that you know how to achieve this.</p>",
-    "_classes": "",
-    "_trackingId": 62,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9960a",
-    "_parentId": "6135ec04680ed409e2f995e2",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "New Block Title",
+    "title": "Identifying a purpose",
     "displayTitle": "",
     "body": "<p>Identifying a purpose is not always easy. It should be high-level, and is often linked with your&nbsp;organisation’s core work. Data does not&nbsp;exist to support reports, it exists to support the decisions,&nbsp;policies or services in your&nbsp;organisation.&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 63,
+    "_trackingId": 39,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4414,8 +2710,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9961c",
-    "_parentId": "6135ec04680ed409e2f995ee",
+    "_id": "6215001d5c080d0a15af0af6",
+    "_parentId": "6215001d5c080d0a15af0ad1",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -4477,7 +2773,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 64,
+    "_trackingId": 40,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4485,8 +2781,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9962a",
-    "_parentId": "6135ec04680ed409e2f995f2",
+    "_id": "6215001e5c080d0a15af0b03",
+    "_parentId": "6215001d5c080d0a15af0ad5",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -4544,11 +2840,11 @@
     }
   },
   {
-    "title": "Using DQAP - Results",
+    "title": "Using DQAPs - Results",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 65,
+    "_trackingId": 41,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4556,8 +2852,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9962d",
-    "_parentId": "6135ec04680ed409e2f995f3",
+    "_id": "6215001e5c080d0a15af0b05",
+    "_parentId": "6215001d5c080d0a15af0ad6",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -4619,7 +2915,7 @@
     "displayTitle": "Root Cause Analysis - the Five Whys",
     "body": "<p>There are different approaches to root cause analysis. One helpful technique&nbsp;is called the five whys.​</p>",
     "_classes": "",
-    "_trackingId": 66,
+    "_trackingId": 42,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4627,8 +2923,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99632",
-    "_parentId": "6135ec04680ed409e2f995f4",
+    "_id": "6215001e5c080d0a15af0b0a",
+    "_parentId": "6215001d5c080d0a15af0ad7",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -4689,8 +2985,8 @@
     "title": "Bespoke Support",
     "displayTitle": "",
     "body": "",
-    "_classes": "cBlock-05",
-    "_trackingId": 67,
+    "_classes": "cBlock-07",
+    "_trackingId": 43,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4698,8 +2994,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f9963f",
-    "_parentId": "6135ec04680ed409e2f995e4",
+    "_id": "6215001e5c080d0a15af0b17",
+    "_parentId": "6215001d5c080d0a15af0ac9",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -4757,11 +3053,11 @@
     }
   },
   {
-    "title": "Using DQAP - recording actions",
-    "displayTitle": "Using DQAP - recording actions",
+    "title": "Using DQAPs - recording actions",
+    "displayTitle": "Using DQAPs - recording actions",
     "body": "",
     "_classes": "",
-    "_trackingId": 68,
+    "_trackingId": 44,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4769,8 +3065,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "616045be680ed409e2f99aae",
-    "_parentId": "6135ec04680ed409e2f995f5",
+    "_id": "6215001e5c080d0a15af0b24",
+    "_parentId": "6215001d5c080d0a15af0ad8",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -4832,7 +3128,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 69,
+    "_trackingId": 45,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4840,8 +3136,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61700550680ed409e2f99b3d",
-    "_parentId": "616e8a09680ed409e2f99b34",
+    "_id": "6215001e5c080d0a15af0b2c",
+    "_parentId": "6215001d5c080d0a15af0ae0",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -4899,153 +3195,11 @@
     }
   },
   {
-    "title": "Why do we need to assess data quality?",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 70,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99605",
-    "_parentId": "6135ec04680ed409e2f995e2",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Final reflections",
-    "displayTitle": "Final reflections",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 71,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99631",
-    "_parentId": "6135ec04680ed409e2f995ec",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Using DQAP - Repeating measurement",
-    "displayTitle": "Using DQAP - Repeating measurement",
+    "title": "Using DQAPs - Repeating measurement",
+    "displayTitle": "Using DQAPs - Repeating measurement",
     "body": "<p>We learned in the first module that quality assessments need to be&nbsp;proactive. That means we need to measure data quality regularly and&nbsp;record the results.&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 72,
+    "_trackingId": 46,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5053,8 +3207,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99636",
-    "_parentId": "6135ec04680ed409e2f995f5",
+    "_id": "6215001e5c080d0a15af0b0e",
+    "_parentId": "6215001d5c080d0a15af0ad8",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -5115,8 +3269,8 @@
     "title": "Course end",
     "displayTitle": "",
     "body": "",
-    "_classes": "cBlock-02",
-    "_trackingId": 73,
+    "_classes": "cBlock-06",
+    "_trackingId": 47,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5124,8 +3278,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99640",
-    "_parentId": "6135ec04680ed409e2f995e4",
+    "_id": "6215001e5c080d0a15af0b18",
+    "_parentId": "6215001d5c080d0a15af0ac9",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -5187,7 +3341,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 74,
+    "_trackingId": 48,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5195,8 +3349,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99644",
-    "_parentId": "6135ec04680ed409e2f995f4",
+    "_id": "6215001e5c080d0a15af0b1b",
+    "_parentId": "6215001d5c080d0a15af0ad7",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -5258,7 +3412,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 75,
+    "_trackingId": 49,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5266,8 +3420,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99645",
-    "_parentId": "6135ec04680ed409e2f995f2",
+    "_id": "6215001e5c080d0a15af0b1c",
+    "_parentId": "6215001d5c080d0a15af0ad5",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -5329,7 +3483,7 @@
     "displayTitle": "A completed data quality action plan",
     "body": "",
     "_classes": "",
-    "_trackingId": 76,
+    "_trackingId": 50,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5337,8 +3491,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99647",
-    "_parentId": "6135ec04680ed409e2f995f3",
+    "_id": "6215001e5c080d0a15af0b1d",
+    "_parentId": "6215001d5c080d0a15af0ad6",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -5400,7 +3554,7 @@
     "displayTitle": "Investigating data quality problems",
     "body": "<p>Having decided on some metrics for this field, you&nbsp;run appropriate queries on your database and find that, for a number of records, the 'Time of RTC' is less than 5 minutes earlier than the 'Time emergency services attended'.</p>",
     "_classes": "",
-    "_trackingId": 77,
+    "_trackingId": 51,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5408,8 +3562,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6179009f680ed409e2f99b60",
-    "_parentId": "616e8a09680ed409e2f99b34",
+    "_id": "6215001e5c080d0a15af0b30",
+    "_parentId": "6215001d5c080d0a15af0ae0",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -5471,7 +3625,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 78,
+    "_trackingId": 52,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5479,8 +3633,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99633",
-    "_parentId": "6135ec04680ed409e2f995f4",
+    "_id": "6215001e5c080d0a15af0b0b",
+    "_parentId": "6215001d5c080d0a15af0ad7",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -5538,11 +3692,11 @@
     }
   },
   {
-    "title": "Using DQAP - continuous monitoring",
+    "title": "Using DQAPs - continuous monitoring",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 79,
+    "_trackingId": 53,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5550,8 +3704,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6135ec04680ed409e2f99637",
-    "_parentId": "6135ec04680ed409e2f995f5",
+    "_id": "6215001e5c080d0a15af0b0f",
+    "_parentId": "6215001d5c080d0a15af0ad8",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -5613,7 +3767,7 @@
     "displayTitle": "Root cause analysis",
     "body": "<p>You investigate how widespread the problem of invalid data in the 'Time of RTC' field is. You find that this occurs with data collected and entered in some regions of the country, but not in others.</p><p>You ask one of the analysts in your organisation about your findings. The analyst tells you,&nbsp;\"the problem is that the people collecting the data do not always record the time, so the data entry people just guess\". This seems to be a common opinion among your analysts, but the data collection&nbsp;and data entry happens&nbsp;outside of your organisation, so your staff do not work&nbsp;directly with the people who collect and enter the data.</p><p>You want to be sure about this, so you contact some of the teams who enter the data and use the five whys.</p>",
     "_classes": "",
-    "_trackingId": 80,
+    "_trackingId": 54,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5621,8 +3775,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61793b94680ed409e2f99b65",
-    "_parentId": "616e8a09680ed409e2f99b34",
+    "_id": "6215001e5c080d0a15af0b31",
+    "_parentId": "6215001d5c080d0a15af0ae0",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -5684,7 +3838,7 @@
     "displayTitle": "Continuing the five whys",
     "body": "<p>You asked, \"Why is the Time of RTC data invalid for some regions?\"</p><p>The answer is: Because the data entered in the 'Time of RTC' field is sometimes the time the incident was reported or attended, instead of the time that the incident occurred.</p><p>Now that you have started with the first why, the rest fall&nbsp;into place.</p>",
     "_classes": "",
-    "_trackingId": 81,
+    "_trackingId": 55,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5692,8 +3846,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61780269680ed409e2f99b5e",
-    "_parentId": "616e8a09680ed409e2f99b34",
+    "_id": "6215001e5c080d0a15af0b2f",
+    "_parentId": "6215001d5c080d0a15af0ae0",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -5755,7 +3909,7 @@
     "displayTitle": "Deciding on actions",
     "body": "<p>You followed the five whys and found the root cause of this data quality problem. Now you need to decide on actions to solve the problem.</p>",
     "_classes": "",
-    "_trackingId": 82,
+    "_trackingId": 56,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5763,8 +3917,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6179514a680ed409e2f99b69",
-    "_parentId": "616e8a09680ed409e2f99b34",
+    "_id": "6215001e5c080d0a15af0b32",
+    "_parentId": "6215001d5c080d0a15af0ae0",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -5826,7 +3980,7 @@
     "displayTitle": "A good data quality assessment",
     "body": "<p>You found out that the root cause of a data quality problem occurs early in the data lifecycle. Your data set is collated from multiple different teams entering data in different places. The lack of an agreed and communicated standard has allowed a data quality problem to occur. This impacts your analyses and is a risk to your outcomes.</p>",
     "_classes": "",
-    "_trackingId": 83,
+    "_trackingId": 57,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5834,8 +3988,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61702112680ed409e2f99b59",
-    "_parentId": "616e8a09680ed409e2f99b34",
+    "_id": "6215001e5c080d0a15af0b2d",
+    "_parentId": "6215001d5c080d0a15af0ae0",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": true,
@@ -5897,7 +4051,7 @@
     "displayTitle": "Bringing the plan together",
     "body": "<p>Because of the approach you followed to solving this first problem, you are easily able to demonstrate to your senior leaders that the quality of your data has real impact on the organisation's outcomes. You can show that the actions you decided on are cost effective and will improve the quality of the work that your organisation does.</p><p>Now that you have a good plan to measure and solve one data quality problem, you want to create a full data quality action plan to manage the quality of your whole data set.&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 84,
+    "_trackingId": 58,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5905,8 +4059,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "617958ea680ed409e2f99b6c",
-    "_parentId": "616e8a09680ed409e2f99b34",
+    "_id": "6215001e5c080d0a15af0b33",
+    "_parentId": "6215001d5c080d0a15af0ae0",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -5968,7 +4122,7 @@
     "displayTitle": "Summary",
     "body": "<p>We have seen how to assess the quality of data&nbsp;through a hypothetical example. The techniques you have learned will help you to create your own data quality action plan. You can now take action to improve data quality management.</p>",
     "_classes": "",
-    "_trackingId": 85,
+    "_trackingId": 59,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -5976,8 +4130,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "61711bb0680ed409e2f99b5b",
-    "_parentId": "616e8a09680ed409e2f99b34",
+    "_id": "6215001e5c080d0a15af0b2e",
+    "_parentId": "6215001d5c080d0a15af0ae0",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,

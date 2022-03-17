@@ -1,12 +1,12 @@
 {
-  "title": "Data Quality Action Plans",
+  "title": "Data Quality Action Plans ",
   "displayTitle": "Data Quality Action Plans",
-  "body": "<p>You do not need technical skills to complete this course but you do need to be reasonably familiar with some data that is relevant to your work.</p><p>The data quality concepts covered in this course are introduced in the&nbsp;<a href=\"http://bpi-courses.github.io/Introduction_to_Data_Quality/\" target=\"_blank\">Introduction to Data Quality course (opens in new tab)</a>. Please complete the Commit and Assess modules of Introduction to Data Quality before taking this course.</p><p><em>To view our accessibility statement please press tab to navigate to the menu and then press enter. Alternatively, you can select the menu button in the top right of this home page.</em></p>",
+  "body": "<p>You do not need technical skills to complete this course but you do need to be fairly familiar with some data that is relevant to your work.</p><p>The importance of good data quality assessments and related data quality concepts are covered in the <a href=\"https://bpi-courses.github.io/Introduction_to_data_quality_assessments/\" target=\"_blank\">Introduction to data quality assessments course (opens in new tab)</a>. Unless you feel confident about the subject, we would recommend taking that course before you proceed.&nbsp;</p><p>To view our accessibility statement please press tab to navigate to the menu and then press enter. Alternatively, you can select the menu button in the top right of this home page.</p>",
   "subtitle": "Welcome to the Data Quality Action Plans e-learning course",
-  "description": "This course will cover the importance of good quality assessments, and a technique you can use to achieve it.",
+  "description": "This course will cover the steps to developing a data quality action plan  and how to use it. ",
   "instruction": "Click a module to begin.",
   "_htmlClasses": "mainPage",
-  "_latestTrackingId": 85,
+  "_latestTrackingId": 59,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -107,10 +107,6 @@
       "_assessmentResults": {
         "ariaRegion": "Assessment results."
       },
-      "_hotgrid": {
-        "ariaRegion": "Selectable image component. Select each item to show more information.",
-        "popupPagination": "{{itemNumber}} / {{totalItems}}"
-      },
       "_slider": {
         "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
         "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
@@ -149,6 +145,10 @@
       },
       "_reveal": {
         "ariaLabel": "Reveal toggle button."
+      },
+      "_hotgrid": {
+        "ariaRegion": "Selectable image component. Select each item to show more information.",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
       }
     },
     "_extensions": {
@@ -316,10 +316,10 @@
       {
         "_type": "document",
         "_forceDownload": false,
-        "title": "DQAP accessibility statement",
-        "filename": "DQAP accessibility statement",
-        "description": "Accessibility statement for the data quality action plans course.",
-        "_link": "course/en/assets/e36b405c0a2f16e3cc109dc37dfb549b0a2fa481.htm"
+        "title": "Data quality action plans accessibility statement",
+        "filename": "Data_quality_action_plans_accessibility_statement",
+        "description": "Accessibility statement for the data quality action plans e-Learning course",
+        "_link": "course/en/assets/cd66224add029a0d5d031f4e2107b7f9018587c2.htm"
       }
     ]
   },
