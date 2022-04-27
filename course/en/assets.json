@@ -29,36 +29,6 @@
       }
     ]
   },
-  "a26d2b2d501fd38829b2c804c7542e2ba81cc5e5.png": {
-    "title": "Reflecting on purposes.png",
-    "description": "Reflecting on purposes",
-    "tags": [
-      {
-        "title": "Reflecting",
-        "_id": "60d9d6bf680ed409e2f99028"
-      }
-    ]
-  },
-  "4d1316852c9a0445a4366400f2e6eb7f3f6592e4.docx": {
-    "title": "DQAP Accessibility statement.docx",
-    "description": "Data quality action plans course accessibility statement.",
-    "tags": [
-      {
-        "title": "DQAP",
-        "_id": "60cc7a30680ed409e2f98ee7"
-      }
-    ]
-  },
-  "386ec92b8bb38005df58b44498abcc3fd91427b2.png": {
-    "title": "measuring quality-DQAP.png",
-    "description": "line graph  showing measurement",
-    "tags": [
-      {
-        "title": "Measuring quality",
-        "_id": "60e1c8dc680ed409e2f99136"
-      }
-    ]
-  },
   "fc1c68828ce75677671db8f5b823a7f814eae173.jpg": {
     "title": "Measuring quality.jpg",
     "description": "data points on a line graph",
@@ -76,16 +46,6 @@
       {
         "title": "tick mark",
         "_id": "60e1cb12680ed409e2f9913d"
-      }
-    ]
-  },
-  "e36b405c0a2f16e3cc109dc37dfb549b0a2fa481.htm": {
-    "title": "DQAP_Accessibility_Statement.htm",
-    "description": "Accessibility statement for the data quality action plans course.",
-    "tags": [
-      {
-        "title": "DQAP",
-        "_id": "60cc7a30680ed409e2f98ee7"
       }
     ]
   },
